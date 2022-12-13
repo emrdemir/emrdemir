@@ -1,6 +1,9 @@
--👋 Merhabalar, Adım Emre,
+-👋 Merhabalar, Adım Emre, 
+
 -🌱 Front End alanında kendimi geliştiriyorum,
--👀 Her zaman soruya,öneriye ve tavsiyeye açığım, bana ulaşmak isterseniz;
+
+-👀 Her zaman soruya, öneriye ve tavsiyeye açığım, bana ulaşmak isterseniz;
+
 -📫 Mail adresim, emre0demir2@gmail.com
 
 <!---
