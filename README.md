@@ -1,6 +1,6 @@
 -👋 Merhabalar, Adım Emre, 
 
--🌱 Front End alanında kendimi geliştiriyorum,
+-🌱 Front End ve Back End alanında kendimi geliştiriyorum,
 
 -👀 Her zaman soruya, öneriye ve tavsiyeye açığım, bana ulaşmak isterseniz;
 
